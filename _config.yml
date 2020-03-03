@@ -1,1 +1,8 @@
 remote_theme: tuur29/pages-themes-cayman
+title: CoMobi
+description: La mobilité en commun(s)
+show_downloads: false
+logo_url: img/logo-long-web.png
+colors:
+  gradient_left: “#25637D”
+  gradient_right: “#9CC360"
