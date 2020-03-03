@@ -1,6 +1,6 @@
-# CoMobi permet aux territoires de déployer une solution minimaliste de covoiturage solidaire, gratuitement et simplement.
+## CoMobi permet aux territoires de déployer une solution minimaliste de covoiturage solidaire, gratuitement et simplement.
 
-## Qu'est-ce que c'est, CoMobi ?
+### Qu'est-ce que c'est, CoMobi ?
 
 C'est un outil numérique qui permet, depuis son navigateur internet :
 - aux conducteurs.rices, de proposer leur(s) trajet(s) en voiture, 
