@@ -1,3 +1,7 @@
+---
+title: CoMobi
+---
+
 ## CoMobi permet aux territoires de déployer une solution minimaliste de covoiturage solidaire, gratuitement et simplement.
 
 ### Qu'est-ce que c'est, CoMobi ?
