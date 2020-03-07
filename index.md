@@ -2,7 +2,7 @@
 title: <img src="img/logo-blanc-sans-fond.png" width="300" alt="CoMobi">
 ---
 
-## CoMobi permet aux territoires de déployer une solution minimaliste de covoiturage solidaire, gratuitement et simplement.
+<h2 margin-top="2em"><center>CoMobi permet aux territoires de déployer une solution minimaliste de covoiturage solidaire, gratuitement et simplement.</center></h2>
 
 ### Qu'est-ce que c'est, CoMobi ?
 
